@@ -30,6 +30,6 @@ class HomeController extends Controller
 
     public function userRole()
     {
-        return 'arif';
+        return 'This is from middleware';
     }
 }
